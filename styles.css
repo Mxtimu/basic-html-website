@@ -82,13 +82,11 @@ body {
         }
         ul, li {
             list-style-type: none;
+            text-align: justify;
+            line-height: 1.9;
         }
         
 
-         ul li::before {
-            content: "- ";
-            margin-right: 4px;
-        }
         .reviews-h2{
             margin-left: 5px;
         }
